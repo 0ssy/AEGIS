@@ -194,5 +194,3 @@ License to be determined.
 ```
 
 
-
-Once saved, tell me `README done`.
